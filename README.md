@@ -48,40 +48,89 @@
 </div>
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; justify-content: center;">
-    <table align="center">
+<div style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <table align="center" style="text-align:center;">
+        <!-- Frontend Frameworks & Styling -->
         <tr>
-            <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
-                <br>JavaScript
+            <td width="100">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="45" height="45" />
+                <br>React Native
             </td>
-            <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-                <br>React
+            <td width="100">
+                <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="45" height="45" />
+                <br>Tailwind CSS
             </td>
-            <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-                <br>Node.js
+            <td width="100">
+                <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+                <br>CSS
             </td>
-            <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" />
-                <br>TypeScript
+            <td width="100">
+                <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+                <br>HTML5
             </td>
-            <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48" />
-                <br>Android Studio
+        </tr>
+        <tr>
+            <td width="100">
+                <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png" alt="Google Firebase" width="45" height="45" />
+                <br>Firebase
             </td>
-            <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />
-                <br>Flutter
+            <td width="100">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="45" height="45" />
+                <br>PostgreSQL
             </td>
-            <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-                <br>Git
+            <td width="100">
+                <img src="https://supabase.com/new-icon.svg" alt="Supabase" width="45" height="45" />
+                <br>Supabase
+            </td>
+        </tr>
+        <!-- Routing & Framework Tools -->
+        <tr>
+            <td width="100">
+                <img src="https://raw.githubusercontent.com/vercel/next.js/canary/apps/www/public/vercel.svg" alt="Expo Router" width="45" height="45" />
+                <br>Expo Router
+            </td>
+            <td width="100">
+                <img src="https://skillicons.dev/icons?i=cursor" alt="Cursor" width="48" height="48" />
+                <br>Cursor
+            </td>
+            <td width="100">
+                <img src="https://bolt.new/favicon.ico" alt="Bolt.new" width="45" height="45" />
+                <br>Bolt.new
+            </td>
+        </tr>
+        <!-- Dev Tools & Editors -->
+        <tr>
+            <td width="100">
+                <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="48" height="48" />
+                <br>VSCode
+            </td>
+            <td width="100">
+                <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+                <br>Tailwind
+            </td>
+        </tr>
+        <!-- AI & Advanced Tools -->
+        <tr>
+            <td width="100">
+                <img src="https://deepseek.ai/favicon.ico" alt="Deepseek" width="45" height="45" />
+                <br>Deepseek
+            </td>
+            <td width="100">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Anthropic_logo.svg/1200px-Anthropic_logo.svg.png" alt="Claude AI" width="45" height="45" />
+                <br>Claude AI
+            </td>
+            <td width="100">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="45" height="45" />
+                <br>ChatGPT
+            </td>
+            <td width="100">
+                <img src="https://perplexity.ai/favicon.ico" alt="Perplexity" width="45" height="45" />
+                <br>Perplexity
             </td>
         </tr>
     </table>
 </div>
+
 
 <h3 align="center"><samp>📊 GitHub Stats</samp></h3>
 <div align="center">
