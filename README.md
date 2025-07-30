@@ -21,119 +21,143 @@
     <img src="https://komarev.com/ghpvc/?username=nuttyproducer&color=blue" alt="profile views" /> 
 </p>
 
-<div style="margin-bottom: 200px;"></div>
+<br>
 
 <samp>- 📫 Reach me on <a href="https://www.linkedin.com/in/benjamin-vanderzeypen-9a762b189/" target="_blank">LinkedIn</a></samp><br>
 <samp>- 📫 Follow me on <a href="https://www.instagram.com/travtravizclicks/" target="_blank">Instagram</a></samp><br>
 <samp>- Passionate about building apps for iOS and Android — eager to learn and grow 🚀</samp>
 
+<br>
+
 <h3 align="center"><samp>Connect</samp></h3>
-<div style="display: flex; align-items: flex-start; justify-content: center;">
-    <table align="center">
+<div align="center">
+    <table>
         <tr>
-            <td align="center" width="100">
+            <td align="center" width="120" style="padding: 15px;">
                 <a href="https://www.linkedin.com/in/benjamin-vanderzeypen-9a762b189/" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="45" height="45" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
                 </a>
-                <br>LinkedIn
+                <br><strong>LinkedIn</strong>
             </td>
-            <td align="center" width="100">
+            <td align="center" width="120" style="padding: 15px;">
                 <a href="https://www.instagram.com/travtravizclicks/" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" width="45" height="45" />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" width="50" height="50" />
                 </a>
-                <br>Instagram
+                <br><strong>Instagram</strong>
             </td>
         </tr>
     </table>
 </div>
+
+<br>
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <table align="center" style="text-align:center;">
-        <!-- Frontend Frameworks & Styling -->
+
+<h4 align="center"><samp>🎨 Frontend & Mobile</samp></h4>
+<div align="center">
+    <table>
         <tr>
-            <td width="100">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="45" height="45" />
-                <br>React Native
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50" />
+                <br><strong>React Native</strong>
             </td>
-            <td width="100">
-                <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="45" height="45" />
-                <br>Tailwind CSS
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
+                <br><strong>Tailwind CSS</strong>
             </td>
-            <td width="100">
-                <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
-                <br>CSS
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+                <br><strong>CSS3</strong>
             </td>
-            <td width="100">
-                <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
-                <br>HTML5
-            </td>
-        </tr>
-        <tr>
-            <td width="100">
-                <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png" alt="Google Firebase" width="45" height="45" />
-                <br>Firebase
-            </td>
-            <td width="100">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="45" height="45" />
-                <br>PostgreSQL
-            </td>
-            <td width="100">
-                <img src="https://supabase.com/new-icon.svg" alt="Supabase" width="45" height="45" />
-                <br>Supabase
-            </td>
-        </tr>
-        <!-- Routing & Framework Tools -->
-        <tr>
-            <td width="100">
-                <img src="https://raw.githubusercontent.com/vercel/next.js/canary/apps/www/public/vercel.svg" alt="Expo Router" width="45" height="45" />
-                <br>Expo Router
-            </td>
-            <td width="100">
-                <img src="https://skillicons.dev/icons?i=cursor" alt="Cursor" width="48" height="48" />
-                <br>Cursor
-            </td>
-            <td width="100">
-                <img src="https://bolt.new/favicon.ico" alt="Bolt.new" width="45" height="45" />
-                <br>Bolt.new
-            </td>
-        </tr>
-        <!-- Dev Tools & Editors -->
-        <tr>
-            <td width="100">
-                <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="48" height="48" />
-                <br>VSCode
-            </td>
-            <td width="100">
-                <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
-                <br>Tailwind
-            </td>
-        </tr>
-        <!-- AI & Advanced Tools -->
-        <tr>
-            <td width="100">
-                <img src="https://deepseek.ai/favicon.ico" alt="Deepseek" width="45" height="45" />
-                <br>Deepseek
-            </td>
-            <td width="100">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Anthropic_logo.svg/1200px-Anthropic_logo.svg.png" alt="Claude AI" width="45" height="45" />
-                <br>Claude AI
-            </td>
-            <td width="100">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="45" height="45" />
-                <br>ChatGPT
-            </td>
-            <td width="100">
-                <img src="https://perplexity.ai/favicon.ico" alt="Perplexity" width="45" height="45" />
-                <br>Perplexity
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+                <br><strong>HTML5</strong>
             </td>
         </tr>
     </table>
 </div>
 
+<h4 align="center"><samp>🗄️ Backend & Database</samp></h4>
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
+                <br><strong>Firebase</strong>
+            </td>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+                <br><strong>PostgreSQL</strong>
+            </td>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-icon.6ce2a927.svg&w=64&q=75" alt="Supabase" width="50" height="50" />
+                <br><strong>Supabase</strong>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<h4 align="center"><samp>🛠️ Development Tools</samp></h4>
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://github.com/expo/expo/blob/main/apps/expo-go/assets/icon.png?raw=true" alt="Expo Router" width="50" height="50" />
+                <br><strong>Expo Router</strong>
+            </td>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://www.cursor.com/brand/icon.svg" alt="Cursor" width="50" height="50" />
+                <br><strong>Cursor</strong>
+            </td>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://bolt.new/icons/bolt.svg" alt="Bolt.new" width="50" height="50" />
+                <br><strong>Bolt.new</strong>
+            </td>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" />
+                <br><strong>VSCode</strong>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<h4 align="center"><samp>🤖 AI & Advanced Tools</samp></h4>
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://chat.deepseek.com/favicon.ico" alt="DeepSeek" width="50" height="50" />
+                <br><strong>DeepSeek</strong>
+            </td>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://claude.ai/images/claude_app_icon.png" alt="Claude AI" width="50" height="50" />
+                <br><strong>Claude AI</strong>
+            </td>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50" />
+                <br><strong>ChatGPT</strong>
+            </td>
+            <td align="center" width="110" style="padding: 10px;">
+                <img src="https://yt3.googleusercontent.com/5T4Yb8R8HmhPPK8-k3aUkPgD6pJU3EhBVTrHjd2zKHoI2vIvGTjm1JHg45SJ9cxN1XJlK4tYLg=s176-c-k-c0x00ffffff-no-rj" alt="Perplexity" width="50" height="50" />
+                <br><strong>Perplexity</strong>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
 
 <h3 align="center"><samp>📊 GitHub Stats</samp></h3>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nuttyproducer&theme=radical&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttyproducer&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nuttyproducer&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttyproducer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttyproducer&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
