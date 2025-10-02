@@ -1,163 +1,116 @@
-<h1 align="center">
-    <samp>Turning Ideas Into Apps</samp> 
-    <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> 
-</h1>
-
-<h2 align="center">
-    <samp>Hi 👋 I'm Benjamin V</samp>
-</h2>
-
-<h3 align="center">
-    <samp>A Full Stack Vibecode Developer</samp> 
-</h3>
-
-<p align="center">
-    Working on an AI-powered fusion recipe generator app blending flavors from around the world 🌍🍲
-</p>
-
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
-
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=nuttyproducer&color=blue" alt="profile views" /> 
-</p>
-
-<br>
-
-<samp>- 📫 Reach me on <a href="https://www.linkedin.com/in/benjamin-vanderzeypen-9a762b189/" target="_blank">LinkedIn</a></samp><br>
-<samp>- 📫 Follow me on <a href="https://www.instagram.com/travtravizclicks/" target="_blank">Instagram</a></samp><br>
-<samp>- Passionate about building apps for iOS and Android — eager to learn and grow 🚀</samp>
-
-<br>
-
-<h3 align="center"><samp>Connect</samp></h3>
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="120" style="padding: 15px;">
-                <a href="https://www.linkedin.com/in/benjamin-vanderzeypen-9a762b189/" target="_blank">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
-                </a>
-                <br><strong>LinkedIn</strong>
-            </td>
-            <td align="center" width="120" style="padding: 15px;">
-                <a href="https://www.instagram.com/travtravizclicks/" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" width="50" height="50" />
-                </a>
-                <br><strong>Instagram</strong>
-            </td>
-        </tr>
-    </table>
+
+# 🚀 Turning Ideas Into Apps <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="24px" height="24px">
+
+### Hi there, I'm **Benjamin V** 👋
+
+**Full Stack Vibecode Developer** | Building the future, one app at a time
+
+*Currently working on an AI-powered fusion recipe generator app blending flavors from around the world* 🌍🍲
+
+<img src="https://komarev.com/ghpvc/?username=nuttyproducer&color=blue&style=flat-square" alt="Profile Views" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-vanderzeypen-9a762b189/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/travtravizclicks/)
+
 </div>
 
-<br>
+---
 
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<h4 align="center"><samp>🎨 Frontend & Mobile</samp></h4>
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const benjamin = {
+    role: "Full Stack Vibecode Developer",
+    currentProject: "AI-Powered Fusion Recipe Generator",
+    passions: ["iOS Development", "Android Development", "AI Integration"],
+    learning: "Always exploring new technologies",
+    motto: "Eager to learn and grow 🚀"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend & Mobile Development
+
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50" />
-                <br><strong>React Native</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
-                <br><strong>Tailwind CSS</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
-                <br><strong>CSS3</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
-                <br><strong>HTML5</strong>
-            </td>
-        </tr>
-    </table>
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" /><br/>**React Native** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" /><br/>**Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" /><br/>**CSS3** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" /><br/>**HTML5** |
+
 </div>
 
-<h4 align="center"><samp>🗄️ Backend & Database</samp></h4>
+### 🗄️ Backend & Database
+
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
-                <br><strong>Firebase</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
-                <br><strong>PostgreSQL</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-icon.6ce2a927.svg&w=64&q=75" alt="Supabase" width="50" height="50" />
-                <br><strong>Supabase</strong>
-            </td>
-        </tr>
-    </table>
+
+|  |  |  |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" /><br/>**Firebase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" /><br/>**PostgreSQL** | <img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-icon.6ce2a927.svg&w=64&q=75" width="60" height="60" /><br/>**Supabase** |
+
 </div>
 
-<h4 align="center"><samp>🛠️ Development Tools</samp></h4>
+### 🔧 Development Tools
+
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://github.com/expo/expo/blob/main/apps/expo-go/assets/icon.png?raw=true" alt="Expo Router" width="50" height="50" />
-                <br><strong>Expo Router</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://www.cursor.com/brand/icon.svg" alt="Cursor" width="50" height="50" />
-                <br><strong>Cursor</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://bolt.new/icons/bolt.svg" alt="Bolt.new" width="50" height="50" />
-                <br><strong>Bolt.new</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" />
-                <br><strong>VSCode</strong>
-            </td>
-        </tr>
-    </table>
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/expo/expo/blob/main/apps/expo-go/assets/icon.png?raw=true" width="60" height="60" /><br/>**Expo Router** | <img src="https://www.cursor.com/brand/icon.svg" width="60" height="60" /><br/>**Cursor** | <img src="https://bolt.new/icons/bolt.svg" width="60" height="60" /><br/>**Bolt.new** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" /><br/>**VSCode** |
+
 </div>
 
-<h4 align="center"><samp>🤖 AI & Advanced Tools</samp></h4>
+### 🤖 AI & Advanced Tools
+
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://chat.deepseek.com/favicon.ico" alt="DeepSeek" width="50" height="50" />
-                <br><strong>DeepSeek</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://claude.ai/images/claude_app_icon.png" alt="Claude AI" width="50" height="50" />
-                <br><strong>Claude AI</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50" />
-                <br><strong>ChatGPT</strong>
-            </td>
-            <td align="center" width="110" style="padding: 10px;">
-                <img src="https://yt3.googleusercontent.com/5T4Yb8R8HmhPPK8-k3aUkPgD6pJU3EhBVTrHjd2zKHoI2vIvGTjm1JHg45SJ9cxN1XJlK4tYLg=s176-c-k-c0x00ffffff-no-rj" alt="Perplexity" width="50" height="50" />
-                <br><strong>Perplexity</strong>
-            </td>
-        </tr>
-    </table>
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| <img src="https://chat.deepseek.com/favicon.ico" width="60" height="60" /><br/>**DeepSeek** | <img src="https://claude.ai/images/claude_app_icon.png" width="60" height="60" /><br/>**Claude AI** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="60" height="60" /><br/>**ChatGPT** | <img src="https://yt3.googleusercontent.com/5T4Yb8R8HmhPPK8-k3aUkPgD6pJU3EhBVTrHjd2zKHoI2vIvGTjm1JHg45SJ9cxN1XJlK4tYLg=s176-c-k-c0x00ffffff-no-rj" width="60" height="60" /><br/>**Perplexity** |
+
 </div>
 
-<br>
+---
 
-<h3 align="center"><samp>📊 GitHub Stats</samp></h3>
+## 📊 GitHub Analytics
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nuttyproducer&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttyproducer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttyproducer&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nuttyproducer&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nuttyproducer&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttyproducer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
 </div>
 
-<br>
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+**Looking to collaborate on mobile app projects or AI-powered solutions?**
+
+📧 **Get in touch:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Vanderzeypen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-vanderzeypen-9a762b189/)
+[![Instagram](https://img.shields.io/badge/Instagram-@travtravizclicks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/travtravizclicks/)
+
+</div>
+
+---
+
+<div align="center">
+    
+**💡 "The best way to predict the future is to create it."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
 </div>
