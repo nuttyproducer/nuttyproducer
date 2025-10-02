@@ -2,6 +2,8 @@
 
 # 🚀 Turning Ideas Into Apps <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="24px" height="24px">
 
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+
 ### Hi there, I'm **Benjamin V** 👋
 
 **Full Stack Vibecode Developer** | Building the future, one app at a time
@@ -14,12 +16,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/travtravizclicks/)
 
 </div>
-
----
-
-<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
-
----
 
 ## 👨‍💻 About Me
 
