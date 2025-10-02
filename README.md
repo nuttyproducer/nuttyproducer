@@ -33,9 +33,8 @@ const benjamin = {
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend & Mobile Development
-
 <div align="center">
+### 🎨 Frontend & Mobile Development
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
@@ -46,27 +45,20 @@ const benjamin = {
 ### 🗄️ Backend & Database
 
 <div align="center">
-
 |  |  |  |
 |:---:|:---:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" /><br/>**Firebase** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" /><br/>**PostgreSQL** | <img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-icon.6ce2a927.svg&w=64&q=75" width="60" height="60" /><br/>**Supabase** |
 
 </div>
-
-### 🔧 Development Tools
-
 <div align="center">
-
+### 🔧 Development Tools
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/expo/expo/blob/main/apps/expo-go/assets/icon.png?raw=true" width="60" height="60" /><br/>**Expo Router** | <img src="https://www.cursor.com/brand/icon.svg" width="60" height="60" /><br/>**Cursor** | <img src="https://bolt.new/icons/bolt.svg" width="60" height="60" /><br/>**Bolt.new** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" /><br/>**VSCode** |
 
 </div>
-
-### 🤖 AI & Advanced Tools
-
 <div align="center">
-
+### 🤖 AI & Advanced Tools
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
 | <img src="https://chat.deepseek.com/favicon.ico" width="60" height="60" /><br/>**DeepSeek** | <img src="https://claude.ai/images/claude_app_icon.png" width="60" height="60" /><br/>**Claude AI** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="60" height="60" /><br/>**ChatGPT** | <img src="https://yt3.googleusercontent.com/5T4Yb8R8HmhPPK8-k3aUkPgD6pJU3EhBVTrHjd2zKHoI2vIvGTjm1JHg45SJ9cxN1XJlK4tYLg=s176-c-k-c0x00ffffff-no-rj" width="60" height="60" /><br/>**Perplexity** |
