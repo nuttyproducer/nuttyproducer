@@ -21,7 +21,7 @@
 ```typescript
 const benjamin = {
     role: "Full Stack Vibecode Developer",
-    Study: "Currently studying for "Hack Your Future" Brussels,
+    Study: "Currently studying at "Hack Your Future" Brussels,
     currentProject: "AI-Powered Fusion Recipe Generator",
     currentProject: "PRD tool that transforms raw ideas into usable data",
     currentProject: "Lightroom presets to PP3 converter",
