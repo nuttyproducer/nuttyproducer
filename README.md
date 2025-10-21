@@ -1,8 +1,4 @@
 <div align="center">
-
-# 🚀 Turning Ideas Into Apps <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="24px" height="24px">
-
----
 <img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 
