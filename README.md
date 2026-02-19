@@ -38,11 +38,11 @@ const benjamin = {
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" /><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" /><br/>
       <b>CSS3</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" /><br/>
+      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" /><br/>
       <b>HTML5</b>
     </td>
   </tr>
@@ -53,27 +53,27 @@ const benjamin = {
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" /><br/>
+      <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" /><br/>
       <b>Firebase</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" /><br/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" /><br/>
       <b>PostgreSQL</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" height="60" /><br/>
+      <img src="https://skillicons.dev/icons?i=supabase" width="60" height="60" /><br/>
       <b>Supabase</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" /><br/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" /><br/>
       <b>VS Code</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /><br/>
+      <img src="https://skillicons.dev/icons?i=git" width="60" height="60" /><br/>
       <b>Git</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" style="filter: invert(50%) sepia(80%) saturate(400%) hue-rotate(180deg);" /><br/>
+      <img src="https://skillicons.dev/icons?i=github" width="60" height="60" /><br/>
       <b>GitHub</b>
     </td>
   </tr>
