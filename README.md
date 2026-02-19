@@ -68,6 +68,14 @@ const benjamin = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" /><br/>
       <b>VS Code</b>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /><br/>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" /><br/>
+      <b>GitHub</b>
+    </td>
   </tr>
 </table>
 
