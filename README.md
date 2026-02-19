@@ -48,7 +48,7 @@ const benjamin = {
   </tr>
 </table>
 
-### 🗄️ Backend & Database
+### 🗄️ Backend, Database & Tools
 
 <table>
   <tr>
@@ -61,7 +61,7 @@ const benjamin = {
       <b>PostgreSQL</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/48/supabase.png" width="60" height="60" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" height="60" /><br/>
       <b>Supabase</b>
     </td>
     <td align="center">
@@ -73,12 +73,11 @@ const benjamin = {
       <b>Git</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" style="filter: invert(50%) sepia(80%) saturate(400%) hue-rotate(180deg);" /><br/>
       <b>GitHub</b>
     </td>
   </tr>
 </table>
-
 </div>
 
 ## 📊 GitHub Analytics
