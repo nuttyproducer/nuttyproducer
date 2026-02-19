@@ -11,7 +11,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 ```typescript
 const benjamin = {
     role: "Full Stack Vibecode Developer",
@@ -23,17 +23,17 @@ const benjamin = {
     ],
     passions: ["iOS Development", "Android Development", "AI Integrations", "MicroSaaS Projects"],
     learning: "Always exploring new technologies",
-    motto: "Eager to learn and grow 🚀"
+    motto: "Eager to learn and grow"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <table>
   <tr>
@@ -48,7 +48,7 @@ const benjamin = {
   </tr>
 </table>
 
-### 🗄️ Backend, Database & Tools
+### Backend, Database & Tools
 
 <table>
   <tr>
@@ -80,7 +80,7 @@ const benjamin = {
 </table>
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <picture>
