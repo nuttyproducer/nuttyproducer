@@ -83,7 +83,7 @@ const benjamin = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=nuttyproducer&theme=rust-ferris-light&hide_border=true" alt="GitHub Streak" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=nuttyproducer&theme=rust-ferris-light&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
