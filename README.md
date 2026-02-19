@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a self-taught developer currently studying at Hack Your Future Brussels. I love turning rough ideas into working web experiences and building tools that actually help people — from AI-powered apps to open-source learning projects.
 
@@ -52,11 +52,11 @@ const benjamin = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ const benjamin = {
   </tr>
 </table>
 
-### 🗄️ Backend, Database & Tools
+### Backend, Database & Tools
 
 <table>
   <tr>
@@ -110,7 +110,7 @@ const benjamin = {
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 <table>
   <tr>
@@ -131,10 +131,10 @@ AI-powered PRD generator that turns rough ideas into professional Product Requir
   </td>
   <td width="50%" valign="top">
     <div align="center">
-      <img src="" width="60" height="60" /><br/>
+      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/codepathlogo.svg" width="60" height="60" /><br/>
     </div>
 
-### 📚 Codepath-v1
+### Codepath-v1
 
 An open-source practice path for students building confidence with HTML, CSS, JavaScript, accessibility, responsive layouts and more. Progressive exercises from basics to intermediate, focused on semantic HTML and real-world patterns.
 
