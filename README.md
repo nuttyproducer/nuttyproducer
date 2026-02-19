@@ -131,7 +131,7 @@ AI-powered PRD generator that turns rough ideas into professional Product Requir
   </td>
   <td width="50%" valign="top">
     <div align="center">
-      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/codepath-logo.svg" width="60" height="60" /><br/>
+      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/codepath-logo.png" width="60" height="60" /><br/>
     </div>
 
 ### Codepath-v1
