@@ -33,6 +33,8 @@ I'm a self-taught developer currently studying at Hack Your Future Brussels. I l
     </td>
   </tr>
 </table>
+
+---
 ```typescript
 const benjamin = {
     role: "Full Stack Vibecode Developer",
@@ -50,11 +52,11 @@ const benjamin = {
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <table>
   <tr>
@@ -73,7 +75,7 @@ const benjamin = {
   </tr>
 </table>
 
-### Backend, Database & Tools
+### 🗄️ Backend, Database & Tools
 
 <table>
   <tr>
@@ -108,7 +110,7 @@ const benjamin = {
 
 ---
 
-## My Projects
+## 🚀 My Projects
 
 <table>
   <tr>
@@ -118,6 +120,7 @@ const benjamin = {
       </div>
 
 ### ⚡ Sparkbrief.io
+
 **[sparkbrief.io](https://www.sparkbrief.io)** — *Brief Today. Build Tomorrow.*
 
 AI-powered PRD generator that turns rough ideas into professional Product Requirements Documents. Connects with GitHub, Notion & Figma, generates Google Stitch prompts, and exports vibecoding launch prompts for [Lovable.dev](https://lovable.dev) and Bolt.
@@ -128,10 +131,11 @@ AI-powered PRD generator that turns rough ideas into professional Product Requir
   </td>
   <td width="50%" valign="top">
     <div align="center">
-      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/HYF.svg" width="60" height="60" /><br/>
+      <img src="" width="60" height="60" /><br/>
     </div>
 
-### Codepath-v1
+### 📚 Codepath-v1
+
 An open-source practice path for students building confidence with HTML, CSS, JavaScript, accessibility, responsive layouts and more. Progressive exercises from basics to intermediate, focused on semantic HTML and real-world patterns.
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuttyproducer/codepath-v1)
