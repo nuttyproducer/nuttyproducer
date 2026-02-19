@@ -40,7 +40,7 @@ const benjamin = {
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ const benjamin = {
   </tr>
 </table>
 
-### 🗄️ Backend, Database & Tools
+### Backend, Database & Tools
 
 <table>
   <tr>
@@ -94,13 +94,14 @@ const benjamin = {
 
 ---
 
-## 🚀 Featured Project — Codepath-v1
+## MUST READ: Featured Project — Codepath-v1
 
 An open-source practice path for students to build confidence with **HTML, CSS, JavaScript, accessibility, responsive layouts, forms, and more**.
 
-- 📚 Progressive exercises from basics to intermediate challenges
-- ✅ Focus on semantic HTML and real-world accessibility patterns
-- 🤝 Open to contributions, ideas and bug reports
+- Progressive exercises from basics to intermediate challenges
+- Focus on semantic HTML and real-world accessibility patterns
+- Open to contributions, ideas and bug reports
+- We will keep on updating these files and we would like to see contribution from other communities!
 
 👉 [Explore the Codepath-v1 repository](https://github.com/nuttyproducer/codepath-v1)
 
