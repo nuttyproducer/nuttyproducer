@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a self-taught developer currently studying at Hack Your Future Brussels. I love turning rough ideas into working web experiences and building tools that actually help people — from AI-powered apps to open-source learning projects.
 ```typescript
@@ -36,7 +36,7 @@ const benjamin = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -94,7 +94,7 @@ const benjamin = {
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ AI-powered PRD generator that turns rough ideas into professional Product Requir
   </td>
     <td width="50%" valign="top">
 
-### 📚 Codepath-v1
+### Codepath-v1
 An open-source practice path for students building confidence with HTML, CSS, JavaScript, accessibility, responsive layouts and more. Progressive exercises from basics to intermediate, focused on semantic HTML and real-world patterns.
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuttyproducer/codepath-v1)
