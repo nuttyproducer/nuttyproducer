@@ -94,16 +94,31 @@ const benjamin = {
 
 ---
 
-## MUST READ: Featured Project — Codepath-v1
+## 🚀 My Projects
 
-An open-source practice path for students to build confidence with **HTML, CSS, JavaScript, accessibility, responsive layouts, forms, and more**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-- Progressive exercises from basics to intermediate challenges
-- Focus on semantic HTML and real-world accessibility patterns
-- Open to contributions, ideas and bug reports
-- We will keep on updating these files and we would like to see contribution from other communities!
+### ⚡ Sparkbrief.io
+**[sparkbrief.io](https://www.sparkbrief.io)** — *Brief Today. Build Tomorrow.*
 
-👉 [Explore the Codepath-v1 repository](https://github.com/nuttyproducer/codepath-v1)
+AI-powered PRD generator that turns rough ideas into professional Product Requirements Documents. Connects with GitHub, Notion & Figma, generates Google Stitch prompts, and exports vibecoding launch prompts for [Lovable.dev](https://lovable.dev) and Bolt.
+
+[![Visit](https://img.shields.io/badge/🌐_sparkbrief.io-6e40c9?style=for-the-badge)](https://www.sparkbrief.io)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuttyproducer/sparkbrief.io)
+
+  </td>
+    <td width="50%" valign="top">
+
+### 📚 Codepath-v1
+An open-source practice path for students building confidence with HTML, CSS, JavaScript, accessibility, responsive layouts and more. Progressive exercises from basics to intermediate, focused on semantic HTML and real-world patterns.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuttyproducer/codepath-v1)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
