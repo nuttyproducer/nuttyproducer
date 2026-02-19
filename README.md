@@ -17,9 +17,22 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a self-taught developer currently studying at Hack Your Future Brussels. I love turning rough ideas into working web experiences and building tools that actually help people — from AI-powered apps to open-source learning projects.
+
+<table>
+  <tr>
+    <td width="15%" align="center" valign="middle">
+      <a href="https://www.hackyourfuture.be/">
+        <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/HYF.svg" width="60" height="60" alt="Hack Your Future" />
+      </a>
+    </td>
+    <td width="85%" valign="middle">
+      <strong><a href="https://www.hackyourfuture.be/">Hack Your Future Brussels</a></strong> — a free coding bootcamp for people with limited access to education. I'm currently following their web development curriculum covering HTML, CSS, JavaScript and SQL, working on real projects and growing as a developer every week.
+    </td>
+  </tr>
+</table>
 ```typescript
 const benjamin = {
     role: "Full Stack Vibecode Developer",
