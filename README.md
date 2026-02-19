@@ -3,7 +3,8 @@
 
 ### Hi there, I'm **Benjamin V** 👋
 **Full Stack Vibecode Developer** | Building the future, one app at a time
-> 🎓 Currently studying HTML, CSS, JavaScript & SQL at **Hack Your Future Brussels**
+
+<img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/HYF.svg" height="30" alt="Hack Your Future" /> Currently studying HTML, CSS, JavaScript & SQL at **Hack Your Future Brussels**
 
 <img src="https://komarev.com/ghpvc/?username=nuttyproducer&color=blue&style=flat-square" alt="Profile Views" />
 
@@ -99,6 +100,9 @@ const benjamin = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/sparbrief.svg" width="60" height="60" /><br/>
+      </div>
 
 ### ⚡ Sparkbrief.io
 **[sparkbrief.io](https://www.sparkbrief.io)** — *Brief Today. Build Tomorrow.*
@@ -109,7 +113,10 @@ AI-powered PRD generator that turns rough ideas into professional Product Requir
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuttyproducer/sparkbrief.io)
 
   </td>
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/HYF.svg" width="60" height="60" /><br/>
+    </div>
 
 ### Codepath-v1
 An open-source practice path for students building confidence with HTML, CSS, JavaScript, accessibility, responsive layouts and more. Progressive exercises from basics to intermediate, focused on semantic HTML and real-world patterns.
