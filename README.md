@@ -1,4 +1,4 @@
-ds<div align="center">
+<div align="center">
 <img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 ### Hi there, I'm **Benjamin V** 👋
