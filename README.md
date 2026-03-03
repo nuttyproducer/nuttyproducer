@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=nuttyproducer&color=blue&style=flat-square" alt="Profile Views" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-vanderzeypen-9a762b189/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/benjislensview/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shootwithbenjiz/)
 
 [![CodeWars](https://www.codewars.com/users/Nuttyproducer/badges/large)](https://www.codewars.com/users/Nuttyproducer)
 
@@ -162,7 +162,7 @@ const benjamin = {
 **Looking to collaborate on open-source learning projects, mobile apps, or AI-powered solutions?**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Vanderzeypen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-vanderzeypen-9a762b189/)
-[![Instagram](https://img.shields.io/badge/Instagram-@benjislensview-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/benjislensview/)
+[![Instagram](https://img.shields.io/badge/Instagram-@benjislensview-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shootwithbenjiz/)
 
 </div>
 
