@@ -146,11 +146,7 @@ const benjamin = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=nuttyproducer&theme=tokyonight&hide_border=true&border_radius=10&background=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=nuttyproducer&theme=default&hide_border=true&border_radius=10" />
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=nuttyproducer&theme=tokyonight&hide_border=true&border_radius=10" />
-  </picture>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuttyproducer&theme=vue&card_width=505&card_height=180)](https://git.io/streak-stats)
 </div>
 
 ---
