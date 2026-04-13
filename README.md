@@ -146,7 +146,7 @@ const benjamin = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuttyproducer&theme=vue&card_width=505&card_height=180)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nuttyproducer&theme=vue&card_width=505&card_height=180" alt="GitHub Streak" /></a>
 </div>
 
 ---
