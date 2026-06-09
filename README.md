@@ -115,13 +115,13 @@ const benjamin = {
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="[https://cyf-nuttyproducer-tv.netlify.app/assets/images/benflix-logo-square.png" width="60" height="60" /><br/><br/>
+      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/assets/benflix-logo.png" width="60" height="60" /><br/><br/>
       <strong><a href="https://cyf-nuttyproducer-tv.netlify.app/">TV-Show Project</a></strong><br/><br/>
       A Netflix-style TV-show page built as a collaborative JavaScript class project. Uses DOM manipulation, API fetch and Cache to pull data from TVMaze. Focused on real-world teamwork and async JavaScript patterns.<br/><br/>
       <a href="https://cyf-nuttyproducer-tv.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-E50914?style=for-the-badge" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/sparbrief.svg" width="60" height="60" /><br/><br/>
+      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/assets/sparbrief.svg" width="60" height="60" /><br/><br/>
       <strong><a href="https://www.sparkbrief.io">Sparkbrief.io</a></strong> — <em>Brief Today. Build Tomorrow.</em><br/><br/>
       AI-powered PRD generator that turns rough ideas into professional Product Requirements Documents. Connects with GitHub, Notion & Figma, generates Google Stitch prompts, and exports vibecoding launch prompts for <a href="https://lovable.dev">Lovable.dev</a> and Bolt.<br/><br/>
       <a href="https://www.sparkbrief.io"><img src="https://img.shields.io/badge/🌐_sparkbrief.io-6e40c9?style=for-the-badge" /></a>
@@ -136,7 +136,7 @@ const benjamin = {
       <a href="https://github.com/nuttyproducer/Computing-Legends-on-Earth-Collection"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/codepath-logo.png" width="60" height="60" /><br/><br/>
+      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/assets/codepath-logo.png" width="60" height="60" /><br/><br/>
       <strong><a href="https://github.com/nuttyproducer/codepath-v1">Codepath-v1</a></strong><br/><br/>
       An open-source practice path for students building confidence with HTML, CSS, JavaScript, accessibility, responsive layouts and more. Progressive exercises from basics to intermediate, focused on semantic HTML and real-world patterns.<br/><br/>
       <a href="https://github.com/nuttyproducer/codepath-v1"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
