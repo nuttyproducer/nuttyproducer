@@ -4,7 +4,7 @@
 ### Hi there, I'm **Benjamin V** 👋
 **Full Stack Vibecode Developer** | Building the future, one app at a time
 
-<img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/assets/HYF.svg" height="30" alt="Hack Your Future" /> Currently studying HTML, CSS, JavaScript & SQL at **Hack Your Future Brussels**
+<img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/assets/HYF.svg" height="30" alt="Hack Your Future" /> Recently finished the course of HTML, CSS, JavaScript & SQL at **Hack Your Future Brussels**
 
 <img src="https://komarev.com/ghpvc/?username=nuttyproducer&color=blue&style=flat-square" alt="Profile Views" />
 
