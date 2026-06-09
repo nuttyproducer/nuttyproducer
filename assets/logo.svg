@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Red B logo</title>
+  <desc id="desc">A stylized red letter B on a black background.</desc>
+  <defs>
+    <linearGradient id="leftGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff2a2a"/>
+      <stop offset="100%" stop-color="#b30000"/>
+    </linearGradient>
+    <linearGradient id="rightGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff2f2f"/>
+      <stop offset="55%" stop-color="#c00000"/>
+      <stop offset="100%" stop-color="#7a0000"/>
+    </linearGradient>
+    <linearGradient id="shadowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.00"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="320" height="320" fill="#000000"/>
+
+  <rect x="76" y="40" width="60" height="240" rx="0" fill="url(#leftGrad)"/>
+
+  <path d="M136 40
+           H188
+           C238 40 274 70 274 114
+           C274 147 252 171 214 176
+           C252 181 278 206 278 244
+           C278 286 244 280 188 280
+           H136
+           V232
+           H184
+           C214 232 228 220 228 200
+           C228 181 214 168 184 168
+           H136
+           V120
+           H181
+           C210 120 224 108 224 89
+           C224 70 210 58 181 58
+           H136
+           Z"
+        fill="url(#rightGrad)"/>
+
+  <path d="M136 40
+           H188
+           C238 40 274 70 274 114
+           C274 147 252 171 214 176
+           C252 181 278 206 278 244
+           C278 286 244 280 188 280
+           H136
+           V40 Z"
+        fill="url(#shadowGrad)" opacity="0.25"/>
+
+  <path d="M206 58
+           C235 61 254 78 257 102
+           C245 93 234 90 219 90
+           C219 76 214 66 206 58Z"
+        fill="#ff5a5a" opacity="0.35"/>
+
+  <path d="M211 176
+           C245 182 263 201 265 229
+           C251 216 239 212 224 212
+           C224 197 219 186 211 176Z"
+        fill="#ff5a5a" opacity="0.28"/>
+</svg>
