@@ -118,7 +118,7 @@ const benjamin = {
       <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/assets/benflix-logo.png" width="60" height="60" /><br/><br/>
       <strong><a href="https://cyf-nuttyproducer-tv.netlify.app/">TV-Show Project</a></strong><br/><br/>
       A Netflix-style TV-show page built as a collaborative JavaScript class project. Uses DOM manipulation, API fetch and Cache to pull data from TVMaze. Focused on real-world teamwork and async JavaScript patterns.<br/><br/>
-      <a href="https://cyf-nuttyproducer-tv.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-E50914?style=for-the-badge" /></a>
+      <a href="https://cyf-nuttyproducer-tv.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-E50914?style=for-the-badge" /></a><a href="https://github.com/nuttyproducer/Project-TV-Show"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/assets/sparbrief.svg" width="60" height="60" /><br/><br/>
