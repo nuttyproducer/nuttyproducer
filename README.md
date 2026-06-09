@@ -130,6 +130,7 @@ const benjamin = {
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
+    <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/assets/computinglegends.png" width="60" height="60" /><br/><
       <br/>
       <strong><a href="https://github.com/nuttyproducer/Computing-Legends-on-Earth-Collection">Computing Legends on Earth Collection</a></strong><br/><br/>
       A comprehensive homage to 34 computing legends — from Babbage and Lovelace to Hinton and Berners-Lee. Biographical profiles organized by domain: Pioneers, Foundational CS, Systems & Languages, AI Pioneers, Modern AI/ML, and Web & Internet.<br/><br/>
